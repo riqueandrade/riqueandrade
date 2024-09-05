@@ -1,29 +1,31 @@
 name: Generate Snake
 
-# Controle quando a ação será executada
 on:
-  schedule: # Executa a ação a cada 8 horas
+  schedule: 
     - cron: "0 */8 * * *"
-  workflow_dispatch: # Permite executar o fluxo manualmente do GitHub
+  workflow_dispatch: 
 
-# Defina o que será feito
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Verifique o repositório
+      # Verificar o repositório
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      # Gera a animação da cobrinha
+      # Criar diretório de saída, se necessário
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      # Gerar a animação da cobrinha
       - name: Generate snake animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
-          github_user_name: riqueandrade  # Substitua pelo seu nome de usuário no GitHub
+          github_user_name: riqueandrade  # Substitua pelo seu nome de usuário
           outputs: dist/snake.svg
 
-      # Adiciona a animação gerada ao repositório
+      # Adicionar a animação ao repositório
       - name: Commit and Push
         run: |
           git config --local user.name "riqueandrade"
@@ -32,7 +34,7 @@ jobs:
           git commit -m "Generated snake animation"
           git push
 
-      # Publica a animação gerada como um artefato
+      # Publicar a animação como artefato
       - name: Upload snake animation
         uses: actions/upload-artifact@v2
         with:
