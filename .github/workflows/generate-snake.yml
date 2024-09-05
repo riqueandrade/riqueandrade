@@ -13,6 +13,8 @@ jobs:
       # Verificar o repositório
       - name: Checkout the repository
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       # Criar diretório de saída, se necessário
       - name: Create dist directory
@@ -28,8 +30,8 @@ jobs:
       # Adicionar a animação ao repositório
       - name: Commit and Push
         run: |
-          git config --local user.name "riqueandrade"
-          git config --local user.email "henriquereynaud7@gmail.com"
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
           git add -A
           git commit -m "Generated snake animation"
           git push
