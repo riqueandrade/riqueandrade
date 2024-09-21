@@ -12,9 +12,9 @@ jobs:
     steps:
       # Verificar o repositório
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Criar diretório de saída, se necessário
       - name: Create dist directory
@@ -25,7 +25,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: riqueandrade  # Substitua pelo seu nome de usuário
-          outputs: dist/snake.svg
+          output: dist/snake.svg  # Verifique o nome correto do parâmetro
 
       # Adicionar a animação ao repositório
       - name: Commit and Push
@@ -33,12 +33,16 @@ jobs:
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add -A
-          git commit -m "Generated snake animation"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Generated snake animation"
+            git push
+          else
+            echo "No changes to commit"
+          fi
 
       # Publicar a animação como artefato
       - name: Upload snake animation
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: snake-animation
           path: dist/snake.svg
