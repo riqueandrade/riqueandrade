@@ -45,9 +45,4 @@
 
 ###
 
-<br clear="both">
 
-![GitHub Snake Animation](https://github.com/riqueandrade/riqueandrade/blob/main/dist/snake.svg)
-
-
-###
