@@ -55,9 +55,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riqueandrade&theme=tokyonight&locale=pt-br" alt="Sequência do GitHub" height="170">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riqueandrade&theme=tokyonight&column=7&margin-w=15&margin-h=15&locale=pt-br&no-frame=true" alt="Troféus do GitHub">
-</p>
 
 
 ### 💡 Uma Frase
