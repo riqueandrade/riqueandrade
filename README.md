@@ -59,13 +59,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
   <img src="https://github-profile-trophy.vercel.app/?username=riqueandrade&theme=tokyonight&column=7&margin-w=15&margin-h=15&locale=pt-br&no-frame=true" alt="Troféus do GitHub">
 </p>
 
-### 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riqueandrade/riqueandrade/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riqueandrade/riqueandrade/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riqueandrade/riqueandrade/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### 💡 Uma Frase
 
