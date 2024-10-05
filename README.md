@@ -61,7 +61,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 
 ### 🐍 Contribuições
 
-![Snake animation](https://github.com/riqueandrade/riqueandrade/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/riqueandrade/riqueandrade/blob/output/github-contribution-grid-snake.svg)
 
 ### 💡 Uma Frase
 
