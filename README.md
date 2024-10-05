@@ -1,48 +1,87 @@
-<h2 align="left">Olá, meu nome é Henrique e sou estudante FullStack</h2>
+<h1 align="center">Olá! 👋 Eu sou Henrique</h1>
+<h3 align="center">Estudante FullStack apaixonado por tecnologia</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riqueandrade&label=Visualizações&color=0e75b6&style=flat" alt="riqueandrade" />
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=riqueandrade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riqueandrade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
+<!-- Adicione uma breve introdução sobre você -->
+<p align="center">
+  Sou um desenvolvedor em formação, focado em criar soluções inovadoras e aprender novas tecnologias. Atualmente, estou aprimorando minhas habilidades em desenvolvimento web e mobile.
+</p>
+
+<!-- Adicione informações sobre seus projetos atuais ou objetivos -->
+<h3 align="left">🚀 O que estou fazendo:</h3>
+
+- 🔭 Atualmente estou trabalhando em [Nome do Projeto](link do projeto)
+- 🌱 Estou aprendendo **React, Docker e AWS**
+- 👯 Procuro colaborar em **projetos open source**
+- 💬 Pergunte-me sobre **JavaScript, Node.js e desenvolvimento web**
+
+<!-- Mantenha as estatísticas do GitHub, mas adicione mais contexto -->
+<h3 align="left">📊 Minhas estatísticas do GitHub:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riqueandrade&show_icons=true&theme=radical" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riqueandrade&theme=radical" alt="streak graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueandrade&layout=compact&theme=radical" alt="languages graph" />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://instagram.com/rique.andrade__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<!-- Atualize a seção de habilidades para ser mais dinâmica -->
+<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,php,mysql,nodejs,express,kotlin,git,vscode" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
+</p>
 
-###
+<!-- Adicione links para suas redes sociais -->
+<h3 align="left">🌐 Conecte-se comigo:</h3>
+<p align="center">
+  <a href="https://instagram.com/rique.andrade__" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="mailto:henriquereynaud7@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="https://wa.me/5547988231069" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
+</p>
 
+<!-- Adicione uma seção de citação inspiradora -->
+<h3 align="center">💡 Citação Inspiradora</h3>
+<p align="center">
+  "A única maneira de fazer um ótimo trabalho é amar o que você faz." - Steve Jobs
+</p>
 
+<!-- Adicione um rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<!-- Adicione uma seção de Projetos em Destaque -->
+<h3 align="left">🏆 Projetos em Destaque</h3>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riqueandrade&repo=nome-do-repo&theme=radical)](https://github.com/riqueandrade/nome-do-repo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=riqueandrade&repo=outro-repo&theme=radical)](https://github.com/riqueandrade/outro-repo)
+
+<!-- Adicione uma seção de Certificações ou Conquistas -->
+<h3 align="left">🏅 Certificações e Conquistas</h3>
+- [Nome da Certificação](link para a certificação)
+- [Outra Conquista](link relevante)
+
+<!-- Adicione uma seção de Projetos em Destaque -->
+<h3 align="left">📚 Atualmente Aprendendo</h3>
+- Tecnologia 1
+- Tecnologia 2
+- Curso ou Bootcamp em andamento
+
+<!-- Adicione uma seção de Contribuições -->
+<h3 align="left">🤝 Contribuições</h3>
+![Snake animation](https://github.com/riqueandrade/riqueandrade/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Adicione uma seção de Tecnologias que uso no dia a dia -->
+<h3 align="left">💻 Tecnologias que uso no dia a dia</h3>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+<!-- Adicione uma seção de Fale Comigo -->
+<h3 align="left">💬 Fale Comigo</h3>
+- 💼 Alguma oportunidade de trabalho? [Me envie um email](mailto:henriquereynaud7@gmail.com)
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
