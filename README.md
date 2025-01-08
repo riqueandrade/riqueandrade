@@ -44,18 +44,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riqueandrade&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueandrade&layout=compact&theme=tokyonight&langs_count=6&locale=pt-br" alt="Linguagens Mais Usadas" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riqueandrade&theme=tokyonight&locale=pt-br" alt="Sequência do GitHub" height="170">
-</p>
-
-
 
 ### 💡 Uma Frase
 
