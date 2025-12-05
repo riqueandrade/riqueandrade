@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Desenvolvedor FullStack em formação • Entusiasta de Tecnologia</strong>
+  <strong>Desenvolvedor FullStack em formação • Técnico em Informática • Entusiasta de Tecnologia</strong>
 </p>
 
 <p align="center">
@@ -27,16 +27,8 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor em constante evolução, focado na construção de soluções eficientes e funcionais. Tenho interesse em desenvolvimento web, automação, APIs e aplicações práticas de inteligência artificial.  
-Busco sempre aprender novas tecnologias e aplicar conhecimento de forma objetiva e escalável.
-
----
-
-## 🚀 O que estou fazendo
-
-- 🔭 Trabalhando em um **sistema de telemedicina com IA**
-- 👯 Buscando colaborar em **projetos open source de impacto social**
-- 🎯 Meta para 2025: **Contribuir mais para projetos de código aberto**
+Sou um desenvolvedor e técnico em informática em constante evolução, focado na criação de soluções eficientes e funcionais. Tenho experiência com manutenção, suporte técnico e infraestrutura, além de forte interesse em desenvolvimento web, APIs, automação e aplicações práticas de inteligência artificial.  
+Busco aprender continuamente e aplicar conhecimento de forma objetiva, escalável e profissional.
 
 ---
 
@@ -65,8 +57,6 @@ Busco sempre aprender novas tecnologias e aplicar conhecimento de forma objetiva
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
-
-## 💬 Frase
 
 <p align="center"><i>"Aprender, construir e iterar — esse é o loop que move minha carreira."</i></p>
 
