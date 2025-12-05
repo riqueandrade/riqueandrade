@@ -18,7 +18,7 @@
   <a href="mailto:henriquereynaud7@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://wa.me/5547988231069" target="_blank">
+  <a href="https://wa.me/5547989073529" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
   </a>
 </p>
