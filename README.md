@@ -1,63 +1,61 @@
-<h1 align="center">Henrique de Andrade Reynaud</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4A00E0&height=250&section=header&text=Henrique%20de%20Andrade&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Orquestrador%20de%20IA%20%7C%20Engenheiro%20de%20Software%20%7C%20Fundador%20%40%20Sadli%20Infotech&descAlignY=58&descAlign=50" alt="Header" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riqueandrade&label=Visualizações&color=blue&style=flat" />
-</p>
+<h3 align="center">
+  🚀 Pioneiro do primeiro perfil 100% Vibe-Coding no GitHub
+</h3>
 
-<p align="center">
-  <strong>Desenvolvedor FullStack em formação • Técnico em Informática • Entusiasta de Tecnologia</strong>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://instagram.com/rique.andrade__" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram%20(Principal)-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://instagram.com/sadli.infotech" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram%20(Tech)-5851DB?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:henriquereynaud7@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://wa.me/5547989073529" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
-  </a>
-</p>
+## 🧠 A Filosofia: O que é "Vibe-Coding"?
+
+O desenvolvimento de software mudou. Eu não apenas digito código; eu **projeto arquiteturas** e **orquestro agentes de IA** para construí-las em velocidade recorde. 
+
+Meu foco é a **solução**, não apenas a sintaxe:
+*   **Arquitetura Limpa:** Sistemas projetados para serem escaláveis e modulares.
+*   **Velocidade & Precisão:** IA gera a base, eu garanto a excelência, segurança e lógica.
+*   **Visão 360°:** Da infraestrutura física ao código de alto nível.
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🏢 Sadli Infotech: Da Infraestrutura ao Código
 
-Sou um desenvolvedor e técnico em informática em constante evolução, focado na criação de soluções eficientes e funcionais. Tenho experiência com manutenção, suporte técnico e infraestrutura, além de forte interesse em desenvolvimento web, APIs, automação e aplicações práticas de inteligência artificial.  
-Busco aprender continuamente e aplicar conhecimento de forma objetiva, escalável e profissional.
-
----
-
-## 🛠 Tecnologias & Ferramentas
-
-**Front-end**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Back-end**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![RESTful API](https://img.shields.io/badge/-RESTful%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Banco de Dados**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Linguagens / Ferramentas Gerais**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+Como fundador da **Sadli Infotech**, atuo na fronteira entre o suporte técnico especializado e o desenvolvimento de software hiper-acelerado. Transformo necessidades complexas em plataformas funcionais utilizando o poder da orquestração de IA.
 
 ---
 
-<p align="center"><i>"Aprender, construir e iterar — esse é o loop que move minha carreira."</i></p>
+## 🛠️ Arsenal de Orquestração
+
+### 🤖 Agentes & IA
+![Gemini](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🏗️ Arquitetura & Análise
+![GitNexus](https://img.shields.io/badge/GitNexus-2b3137?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+
+## 🚀 Capacidade de Entrega
+
+Meu gráfico de contribuições reflete o desenvolvimento constante de **Sistemas Proprietários em Modo Stealth**. Foco em entregas de alto impacto, mantendo a excelência técnica através de ciclos rápidos de iteração.
+
+---
+
+## 📊 Vibe-Coding em Números
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riqueandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueandrade&layout=compact&theme=tokyonight" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.instagram.com/rique.andrade__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
